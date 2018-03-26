@@ -1,0 +1,139 @@
+/*	RAJU, CHANDAN
+	JADRAN 048
+	PROJECT 1
+	FALL 2017 */
+
+.h11{
+	text-align:center;
+	color: #C80000;
+	font-family: Monoton ;
+	font-size: 33px;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: #C80000;
+}
+.links{
+	font-size:20px;
+	font-family: Courgette;
+	padding-right: 45px;
+	padding-left: 45px;
+}
+hr{
+	height: 1px;
+}
+.p1{
+	font-size: 18px;
+	color: white;
+	font-family: Courgette;
+	padding-top: 10px;
+}
+.body1{
+	background: url("https://www.mtl.org/sites/default/files/styles/playlist_large/public/2017-06/33160H_0.JPG?itok=TA1rzHEn");
+	background-size: cover;
+}
+/* CSS FOR HISTORY.HTML*/
+.h21{
+	text-align:center;
+	font-family: Give You Glory ;
+	font-size: 33px;
+	margin: 0;
+}
+.body2{
+	background-color: #B8B8B8;
+	font-family: Architects Daughter ;
+}
+img{
+	width: 370px;
+	float: left; 
+	margin: 20px;
+	border:1px solid black;
+}
+/* CSS FOR NEIGHBORHOODS.HTML*/
+.list1{
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 22px;
+}
+.img1{
+	width: 275px;
+	height: 250px;
+	border:1px solid black	
+}
+.data1{
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+}
+.body3{
+	background: #D8BFD8;
+	font-family: Architects Daughter
+}
+/* CSS FOR 	ARTS.HTML*/
+.body4{
+	font-family: Architects Daughter;
+	font-size: 20px;
+	background: #DFBF9F;
+}
+.img2{
+	width: 450px;
+	height: 260px;
+	float: right;
+}
+/* CSS FOR MUSTSEE.HTML*/
+.img3{
+	width: 530px;
+	height: 275px;
+	margin-left: 0px;
+}
+.list2{
+	text-decoration: underline;
+	text-align: left;
+	font-weight: bold;
+	font-size: 25px;
+	color: black;
+}
+.body5{
+	font-family: Architects Daughter;
+	font-size: 18px;
+	background: #B3B3FF;
+	margin-left: 10px;
+}
+.textcolor{
+	color: black;
+}
+/* CSS FOR FOOD.HTML*/
+.list3{
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 20px;
+	color: #003311;
+}
+.button2{
+	padding-right:30px;
+	float: left;
+}
+.body6{
+	font-family: Architects Daughter;
+	font-size: 20px;
+	background: #ECC6C6;
+}
+.btn{
+	height: 25px;
+	width: 150px;
+	border-radius: 33px;
+	background-color:#D3D3D3;
+	border: solid black 1px;
+	font-family: Architects Daughter;
+	font-size: 15px;
+}
+.address{
+	font-weight: bold;
+	font-size: 20px;
+}
+.img4{
+	float: right;
+	height: 235px;
+	width: 375px;
+}
